@@ -1,26 +1,23 @@
-# 📊 Análisis del S&P 500
+# 📊 S&P 500 Analysis
 
-## 📝 Contexto
-Este proyecto consiste en el análisis interactivo de los datos del índice S&P 500, centrándose en la composición por sectores y empresas.  
-El objetivo principal fue proporcionar información detallada para inversores y analistas interesados en comprender la distribución y el desempeño de las compañías que conforman este índice.
+## 📝 Context
+This project involves the interactive analysis of the S&P 500 index data, focusing on its composition by sectors and companies.  
+The main objective was to provide detailed information for investors and analysts interested in understanding the distribution and performance of the companies within this index.
 
-## 🛠️ Herramientas Utilizadas
-- **Power BI**: Para la creación de dashboards interactivos y visualizaciones impactantes.
-- **Datos del mercado**: Fuentes de datos sobre capitalización bursátil, precios por acción y métricas financieras clave de las empresas del índice.
+## 🛠️ Tools Used
+- **Power BI**: For creating interactive dashboards and impactful visualizations.
+- **Market Data**: Sources of data on market capitalization, stock prices, and key financial metrics of the companies in the index.
 
-## 📈 Análisis de Resultados
-- Distribución de la capitalización bursátil por sector:
-  - Tecnología ($6.73T), Financiero ($3.44T), Salud ($3.24T), entre otros.
-- Identificación de empresas líderes en el índice:
-  - Por capitalización bursátil: Apple Inc. ($1.81T), Google ($1.07T), Microsoft ($1.01T).
-  - Por precio por acción: Priceline ($1,806.06), Amazon ($1,350.50).
-- Análisis de las variaciones en los precios de las acciones y los ingresos de las principales empresas.
-- Creación de filtros interactivos para explorar sectores, empresas y métricas específicas.
+## 📈 Results Analysis
+- Distribution of market capitalization by sector:
+  - Technology ($6.73T), Financials ($3.44T), Healthcare ($3.24T), among others.
+- Identification of leading companies in the index:
+  - By market capitalization: Apple Inc. ($1.81T), Google ($1.07T), Microsoft ($1.01T).
+  - By stock price: Priceline ($1,806.06), Amazon ($1,350.50).
+- Analysis of stock price variations and earnings of top companies.
+- Creation of interactive filters to explore sectors, companies, and specific metrics.
 
-## 📋 Conclusiones
-- El análisis destaca la concentración de capital en los sectores de Tecnología y Financiero, lo que resalta su impacto en el mercado.
-- Herramientas como Power BI permiten explorar de manera eficiente los datos del S&P 500, facilitando la identificación de oportunidades de inversión.
-- Este enfoque interactivo permite una comprensión más profunda del comportamiento del mercado y de las compañías dentro del índice.
-
-
-
+## 📋 Conclusions
+- The analysis highlights the concentration of capital in the Technology and Financial sectors, emphasizing their market impact.
+- Tools like Power BI enable efficient exploration of S&P 500 data, making it easier to identify investment opportunities.
+- This interactive approach allows for a deeper understanding of market behavior and the companies within the index.
